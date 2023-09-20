@@ -6,3 +6,9 @@ In this guide, we will explore how to implement output caching in a .NET Core We
 
 ## Prerequisites
 - .NET SDK (6.0 or later)
+
+## Testing the API
+Access the /current-time endpoint multiple times within 10 seconds and observe the response. The date and time should remain the same due to caching.
+
+## Conclusion
+Output caching is a powerful feature in .NET Core Web API that can significantly improve the performance of your application. By leveraging the minimal API architecture, developers can quickly and efficiently implement caching mechanisms in their projects.
