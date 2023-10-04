@@ -57,6 +57,7 @@
 - [Profiling (e.g., dotTrace)](#profiling-eg-dottrace)
 - [Response Compression](#response-compression)
 - [Asynchronous Programming](#asynchronous-programming)
+- [Pagination](Optimization/Pagination/MyKnowledgeBase.Optimization.Pagination/readme.md)
 
 ## Security Practices
 - [Data Protection](#data-protection)
